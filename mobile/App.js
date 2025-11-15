@@ -8,7 +8,7 @@ import AuthStack from './screens/AuthStack';
 import HomeStack from './screens/HomeStack';
 
 // Set backend URL here (eg. http://192.168.0.100:4000 or deployed URL)
-export const API_URL = "<PUT_BACKEND_URL_HERE>";
+export const API_URL = "https://bike-tracker-backend-production.up.railway.app/";
 
 export const AuthContext = createContext();
 
